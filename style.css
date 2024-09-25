@@ -1,0 +1,25 @@
+.main{
+    text-align: center;
+    margin-top: 200px;
+    background-color: gray;
+    border-radius: 0.5rem;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.text{
+    height: 50px;
+    border-radius: 2rem ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: silver;
+    color: darkred;
+    font-size: medium;
+}
+.button{
+    height: 30px;
+    border-radius: 2px;
+}
+.button:active{
+    background-color: aqua;
+    transition: 0.5s;
+}
